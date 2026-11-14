@@ -1,7 +1,7 @@
 Package: JMbayes2
 Type: Package
 Title: Extended Joint Models for Longitudinal and Time-to-Event Data
-Version: 0.5-7
+Version: 0.5-7.9001
 Authors@R: c(
     person("Dimitris", "Rizopoulos", email = "d.rizopoulos@erasmusmc.nl", role = c("aut", "cre"), comment = c(ORCID = '0000-0001-9397-0900')),
     person("Pedro", "Miranda Afonso", email = "p.mirandaafonso@erasmusmc.nl", role = "aut"),
